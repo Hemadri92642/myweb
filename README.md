@@ -1,1 +1,1 @@
-## GIT COMMINDES ##s
+## GIT COMMINDES 
