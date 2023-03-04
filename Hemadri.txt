@@ -1,9 +1,0 @@
-1. git
-2. maven
-3. docker
-4. jenkins
-5. tomcat
-6. k8s
-7. aws
-8. ansible
-9. linux
